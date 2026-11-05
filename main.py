@@ -15,8 +15,7 @@ if not logger.handlers:
     ))
     logger.addHandler(h)
 
-
-
+#Hi
 @functions_framework.http
 def order_event(request):
     """
